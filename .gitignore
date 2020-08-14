@@ -22,7 +22,12 @@ classes/
 buildSrc/build
 /spring-*/build
 /src/asciidoc/build
-target/
+target/classes
+target/classes
+target/generated-sources
+target/maven-archiver
+target/maven-status
+target/*.jar
 
 # Eclipse artifacts, including WTP generated manifests
 .classpath
